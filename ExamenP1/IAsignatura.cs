@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExamenP1
 {
-    public interface Interface1
+    public interface IAsignatura
     {
         double CalcularNotaFinal();
 
