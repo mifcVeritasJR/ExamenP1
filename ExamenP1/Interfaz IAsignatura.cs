@@ -13,5 +13,7 @@ namespace ExamenP1
         double CalcularNotaFinal(int N1, int N2, int N3);
 
         string MensajeNotaFinal(double notaFinal);
+
+        void Imprimir();
     }
 }
